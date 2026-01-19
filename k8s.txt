@@ -1,0 +1,1 @@
+Kubernetes is a container orchestration platform that automates the deployment, scaling, and management of containerized applications. It provides a way to manage and run containerized applications in a distributed environment, making it easier to build, deploy, and manage containerized applications at scale.
